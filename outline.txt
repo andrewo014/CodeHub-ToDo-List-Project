@@ -29,4 +29,4 @@ Main Branch (DO NOT DO WORK HERE AS NOT TO OVERRIDE ANYONE ELSES WORK)
 1 branch for misc. things/testing
 
 Cool ideas that we MIGHT do
-- AI tab
+- AI tab - using GPT 3.5 API. This is paid.
