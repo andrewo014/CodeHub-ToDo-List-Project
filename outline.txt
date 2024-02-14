@@ -22,7 +22,6 @@ GUI Options
 - Tkinter
 - Django
 
-
 Different branches:
 Main Branch (DO NOT DO WORK HERE AS NOT TO OVERRIDE ANYONE ELSES WORK)
 1 branch on UX design
