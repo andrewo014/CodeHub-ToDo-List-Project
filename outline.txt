@@ -1,0 +1,14 @@
+Rough sketch of how we want the GUI to look:
+
+- Something along the lines of 'Please enter a 'to do''
+- 'Add' button to the right of this ^^^ text field. This will add the 'to do' to the list
+- List will have the 'to do' in a box like this vvvv
+---------------------------------
+| Finish data structures project |
+----------------------------------
+- To the right of this box will be a little 'pencil' icon. This will be the button you can click to edit
+- To the left is an 'X' icon, this will delete the reminder
+- To the left of the 'X' icon will be a check icon. This will mark the reminder as completed
+
+Cool ideas that we MIGHT do
+- AI tab
