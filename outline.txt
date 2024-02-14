@@ -5,7 +5,6 @@ Rough sketch of how we want the GUI to look:
 - List will have the 'to do' in a box like this vvvv
 ---------------------------------
 | Finish data structures project |
-
 ----------------------------------
 THESE THINGS vvvvv WILL ONLY POP UP IF YOU HOVER OVER THE BOX/TASK 
 
@@ -24,6 +23,11 @@ GUI Options
 - Django
 
 
+Different branches:
+Main Branch (DO NOT DO WORK HERE AS NOT TO OVERRIDE ANYONE ELSES WORK)
+1 branch on UX design
+1 branch on GUI
+1 branch for misc. things/testing
 
 Cool ideas that we MIGHT do
 - AI tab
