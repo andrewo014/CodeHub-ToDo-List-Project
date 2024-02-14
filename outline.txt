@@ -13,6 +13,11 @@ THESE THINGS vvvvv WILL ONLY POP UP IF YOU HOVER OVER THE BOX/TASK
 - To the left is an 'X' icon, this will delete the reminder
 - To the left of the 'X' icon will be a check icon. This will mark the reminder as completed
 
+UX Features
+- Add, remove, complete tasks.
+- Text field for user to specify their task.
+- The option to delete completed tasks.
+
 
 
 Cool ideas that we MIGHT do
