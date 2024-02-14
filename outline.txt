@@ -18,7 +18,11 @@ UX Features
 - Text field for user to specify their task.
 - The option to delete completed tasks.
 
-
+Different branches:
+Main Branch (DO NOT DO WORK HERE AS NOT TO OVERRIDE ANYONE ELSES WORK)
+1 branch on UX design
+1 branch on GUI
+1 branch for misc. things/testing
 
 Cool ideas that we MIGHT do
 - AI tab
